@@ -1,0 +1,7 @@
+# バイナリや実行ファイルを除外
+bin/
+go/bin/
+go/pkg/
+*.exe
+*.test
+*.prof
