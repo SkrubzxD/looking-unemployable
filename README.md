@@ -2,10 +2,16 @@
 I'm looking very unemployable, so I'm trying to study for TechStacks that companies are using and see if I will land a job. Plus, it would be interesting to see how long to **functionally** use these tool/ toolkits.
 
 ## Tools to learn 
-- Git, GitHub Actions, Terraform, Docker, K8s, Ansible
-- Wazuh, CrowdStrike, Splunk, Fortinet, Juniper
+SREs
+- Git, GitHub Actions, Terraform, Docker, K8s, Ansible, k6
 - Redis, PostGreSQL, Kafka
+
+Network / Infra / Security
+- Wazuh, CrowdStrike, Splunk, Fortinet, Juniper
+- MFW, SMX, Palto Alto
+- mTLS
+- SonarCloud, Snyk
+
+Dev
 - gRPC, REST
 - Go, Spring, JWTs
-- MFW, SMX, Palto Alto
-
